@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/houyx/development/leetcode/git/cpp/algorithms/7_reverse-integer/main.cpp
+stdio.h
+-
+stdlib.h
+-
+stack
+-
+iostream
+-
+vector
+-
+typeinfo
+-
+exception
+-
+map
+-
+list
+-
+algorithm
+-
+time.h
+-
+memory.h
+-
+assert.h
+-
+
