@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/houyx/development/leetcode/git/cpp/algorithms/15_3sum/main.cpp
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+stack
+-
+iostream
+-
+vector
+-
+typeinfo
+-
+exception
+-
+map
+-
+list
+-
+algorithm
+-
+time.h
+-
+memory.h
+-
+assert.h
+-
+unordered_map
+-
+
